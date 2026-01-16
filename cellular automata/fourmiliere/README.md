@@ -19,3 +19,4 @@ Les ressources et inspirations sont toutes présentes dans le dossier "reference
 Je n'ai malheureusement pas réussi à créer ce code tout seul, même si une importante partie vient de moi je dois avouer avoir utilisé de l'IA lorsque
 je n'arrivais pas à mes fins... :(
 Je pense que j'aurais aimé passer plus de temps sur ce projet afin de ne pas avoir à avoir recours à cette pratique même si j'ai essayé de la limiter le plus possible.
+<img width="1970" height="1674" alt="fourmiliere" src="https://github.com/user-attachments/assets/3781231b-9098-4df5-9e0e-913ec8bd2259" />
